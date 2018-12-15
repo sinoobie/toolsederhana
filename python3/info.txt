@@ -1,0 +1,1 @@
+Ingat gan di folder ini anda harus memggunakan python3 untuk menjalankannya.

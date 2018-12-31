@@ -1,9 +1,9 @@
 # UPDATE
 updatenya cuma penambahan fitur dan tools di file 'sederhana.py'
-*Apa fitur barunya gan?
--Fitur barunya adalah menambahkan password saat akan menggunakan file dan auto compile (jadi saat agan menjalankan toolsnya maka akan secara automatis dicompile/encrypt
-*Trus tools barunya apa aja?
--Tools yang baru ada 2 tools dari pada agan penasaran bagusan langsu clone aja nih repo oke
+\n*Apa fitur barunya gan?
+\n-Fitur barunya adalah menambahkan password saat akan menggunakan file dan auto compile (jadi saat agan menjalankan toolsnya maka akan secara automatis dicompile/encrypt
+\n*Trus tools barunya apa aja?
+\n-Tools yang baru ada 2 tools dari pada agan penasaran bagusan langsu clone aja nih repo oke
 
 # toolsederhana
 Tool ini isinya ngak jelas gunakanlah tools ini sesuka anda
